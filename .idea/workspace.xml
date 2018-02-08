@@ -4,6 +4,7 @@
     <list default="true" id="a1d5c949-a37d-450f-8293-034b2151ddf5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/modules/java_train.iml" afterPath="$PROJECT_DIR$/.idea/modules/java_train.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/gradle-4.5.1 2/build.gradle" afterPath="$PROJECT_DIR$/gradle-4.5.1 2/build.gradle" />
       <change beforePath="$PROJECT_DIR$/out/production/java_train/ru/stqa/ptf/sandbox/MyFirstProgram.class" afterPath="" />
       <change beforePath="$PROJECT_DIR$/out/production/java_train/ru/stqa/ptf/sandbox/Rectangle.class" afterPath="" />
@@ -11,6 +12,10 @@
       <change beforePath="$PROJECT_DIR$/src/ru/stqa/ptf/sandbox/MyFirstProgram.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/ru/stqa/ptf/sandbox/Rectangle.java" afterPath="" />
       <change beforePath="$PROJECT_DIR$/src/ru/stqa/ptf/sandbox/Square.java" afterPath="" />
+=======
+      <change beforePath="$PROJECT_DIR$/out/production/java_train/MyFirstProgram.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/ru/stqa/ptf/sandbox/MyFirsProgram.java" afterPath="$PROJECT_DIR$/src/ru/stqa/ptf/sandbox/MyFirstProgram.java" />
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -79,9 +84,18 @@
       <file leaf-file-name="Rectangle.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Rectangle.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="210">
               <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
+=======
+            <state relative-caret-position="30">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#154#155#0" expanded="true" />
+              </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
             </state>
           </provider>
         </entry>
@@ -337,10 +351,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="50" />
     <option name="y" value="82" />
     <option name="width" value="1318" />
     <option name="height" value="720" />
+=======
+    <option name="x" value="97" />
+    <option name="y" value="111" />
+    <option name="width" value="1251" />
+    <option name="height" value="670" />
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -582,27 +603,44 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="50" y="82" width="1318" height="720" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4021739" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+=======
+    <frame x="97" y="111" width="1251" height="670" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4021739" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.50429183" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28405315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3115942" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.49713877" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.49570817" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31504703" sideWeight="0.48965517" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32258064" sideWeight="0.48965517" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24892704" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22885571" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26037195" sideWeight="0.5103448" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -629,7 +667,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -642,23 +680,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Square.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="195">
           <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
@@ -666,7 +729,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
@@ -674,31 +744,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
+=======
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru/stqa/ptf/sandbox/MyFirstProgram1.java" />
     <entry file="file://$PROJECT_DIR$/gradle-4.5.1 2/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="150">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+=======
+        <state relative-caret-position="60">
+          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Square.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="195">
           <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
@@ -707,6 +811,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
@@ -766,6 +877,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>
@@ -788,6 +906,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ru.stqa.ptf.sandbox/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="210">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
@@ -799,6 +918,14 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#154#155#0" expanded="true" />
+          </folding>
+>>>>>>> parent of 8c10a43... Добавлено несколько функций
         </state>
       </provider>
     </entry>

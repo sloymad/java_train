@@ -3,6 +3,7 @@ package ru.stqa.ptf.sandbox;
 public class MyFirstProgram {
 
     public static void main(String[] args) {
+<<<<<<< HEAD:src/main/java/ru.stqa.ptf.sandbox/MyFirstProgram.java
         hello("world");
         hello("user");
         hello("Alexei");
@@ -22,4 +23,8 @@ public class MyFirstProgram {
     }
 
 
+=======
+        System.out.println("Hello, world");
+    }
+>>>>>>> parent of 8c10a43... Добавлено несколько функций:src/ru/stqa/ptf/sandbox/MyFirstProgram.java
 }
